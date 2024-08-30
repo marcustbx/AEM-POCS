@@ -183,3 +183,7 @@ header nav .nav-section ul {
 header nav .nav-section ul li:first-child {
   margin-right: 85px;
 }
+
+header nav .nav-section ul li a {
+  text-decoration: none;
+}
